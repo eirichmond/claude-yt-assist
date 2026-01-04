@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir:*)",
+      "Skill(video-editor)",
+      "Skill(story-driven-youtube-seo-writer)",
+      "WebSearch"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
