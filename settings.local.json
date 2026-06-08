@@ -9,7 +9,9 @@
       "WebFetch(domain:elliottrichmond.co.uk)",
       "Bash(brew install:*)",
       "Bash(pdftotext \"/Users/elliottrichmond/Documents/Client Work/Automattic/Affiliate Customer Brief_ WordPress.com AI \\(1\\).pdf\" -)",
-      "WebFetch(domain:developer.wordpress.com)"
+      "WebFetch(domain:developer.wordpress.com)",
+      "Bash(rm -rf commands/shared)",
+      "Bash(mkdir -p partials)"
     ],
     "deny": [],
     "ask": []

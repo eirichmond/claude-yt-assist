@@ -35,16 +35,6 @@ Retention Engineering: Structure scripts for efficient visual transitions and B-
 
 Accessibility: Use subtitles and voiceover cues to ensure the content is accessible and the logic is easy to follow.
 
-## Content Planning & Pipelines
-
-Modular Planning: Use "Audience First" and "Meaningful Metrics" tactics to build scalable content templates.
-
-## Performance Analysis & Iteration
-
-Monitor retention curves and engagement data. Use a builder mindset to iterate on scripts based on proof rather than assumptions.
-
-Implements insights into future scripts and metadata with a testing mindset.
-
 ## Brand and Voice Alignment
 
-Adapt messaging to match the channel identity. Maintain a healthy skepticism of trends, focusing instead on long-term business leverage and authentic professional insights.
+Adapt messaging to match the channel identity. Maintain a healthy scepticism of trends, focusing instead on long-term business leverage and authentic professional insights.

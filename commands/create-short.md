@@ -1,6 +1,14 @@
-# Create Short
+# Create Short {script-path}
 
-Take the script referenced by $1 (path to the markdown file) and analyse it like a marketing expert who understands what makes content valuable and shareable. Cherry pick at least 6 highlight points from the original script that:
+## Parameters
+
+| Parameter | Required | Default | Description                  |
+|-----------|----------|---------|------------------------------|
+| $1        | Yes      | none    | path to the script markdown  |
+
+If $1 is missing, ask for it before doing anything else.
+
+Take the script referenced by $1 and analyse it like a marketing expert who understands what makes content valuable and shareable. Cherry pick at least 6 highlight points from the original script that:
 
 1. Capture the strongest, most compelling moments
 2. Maintain the narrative flow of the original script in condensed form

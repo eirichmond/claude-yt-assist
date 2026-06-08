@@ -1,3 +1,8 @@
+---
+name: feynman-technique
+description: Turn a rough idea or brain dump into a clear, plain-English script using the Feynman Technique. Use when explaining a concept simply, stripping jargon, and building a teachable narrative from a topic.
+---
+
 # Feynman Script Builder
 
 Use this to turn a rough idea or brain dump into a clear, engaging script using the Feynman Technique. Keep everything plain, simple, and grounded. Add a touch of dry humour where it helps clarity, but never at the expense of accuracy.
