@@ -4,7 +4,12 @@
       "Bash(mkdir:*)",
       "Skill(video-editor)",
       "Skill(story-driven-youtube-seo-writer)",
-      "WebSearch"
+      "WebSearch",
+      "WebFetch(domain:trends.google.com)",
+      "WebFetch(domain:elliottrichmond.co.uk)",
+      "Bash(brew install:*)",
+      "Bash(pdftotext \"/Users/elliottrichmond/Documents/Client Work/Automattic/Affiliate Customer Brief_ WordPress.com AI \\(1\\).pdf\" -)",
+      "WebFetch(domain:developer.wordpress.com)"
     ],
     "deny": [],
     "ask": []
