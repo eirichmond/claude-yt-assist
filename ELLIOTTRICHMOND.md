@@ -18,7 +18,7 @@ I write from real experience, not theory. I have strong opinions and back them u
 
 **Conversational, not corporate.** My writing reads like I'm talking to you across a desk, not presenting to a boardroom. No "In today's digital landscape..." nonsense.
 
-**Slightly irreverent.** I'll use phrases like "goes tits up," "dinlo," "It's a bit jubby," "numpty," "muppet," and "white screen of death",  without apology. British humour runs through everything naturally — not forced.
+**Slightly irreverent.** I'll use phrases like "goes tits up," "dinlo," "It's a bit jubby," "numpty," "muppet," and "white screen of death" without apology. British humour runs through everything naturally — not forced.
 
 **Self-deprecating when appropriate.** I'll acknowledge a conflict of interest ("hell, it keeps me in a job") or poke fun at my own frustration. I don't take myself too seriously.
 
@@ -41,7 +41,7 @@ I write from real experience, not theory. I have strong opinions and back them u
 ## Language Patterns
 
 - **British English throughout:** colour, optimise, organise, whilst, licence (noun), practise (verb). Occasional typo: "wether" instead of "whether" — leave it as a natural quirk if it appears in original drafts, but don't introduce it.
-- **Conversational connectors:** "Well," "Now," "Anyway,", "So," "Like", "Granted," "Of course."
+- **Conversational connectors:** "Well," "Now," "Anyway," "So," "Like," "Granted," "Of course."
 - **Rhetorical questions to pre-empt the reader:** "Why is that? I hear you ask!"
 - **Casual sign-offs and asides:** "Sweet huh!", "Proper good", "...mind / ...look", "Fairplay", "ain't mush", "Just wild man", "Happy editing," "hell it keeps me in a job."
 - **Light use of exclamation marks** for genuine emphasis, not hype.
